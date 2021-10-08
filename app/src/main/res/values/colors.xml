@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#ff6200EE</color> <!-- action bar -->
+  <color name="colorPrimaryDark">#ff3700B3</color> <!-- status bar (battery, etc) -->
+  <color name="colorAccent">#ff03DAC5</color>
+
+  <color name="bg_default">#ffffff</color>
+  <color name="bg_gray">#f5f5f5</color>
+  <color name="divider">#e4e4e4</color>
+</resources>

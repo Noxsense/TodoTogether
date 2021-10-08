@@ -1,0 +1,6 @@
+<resources>
+	<string name="app_name">Todo Together</string>
+  <string name="tabTodoLabel">Todos</string>
+  <string name="tabExpensesLabel">Expenses</string>
+  <string name="tabUsersLabel">Users</string>
+</resources>
